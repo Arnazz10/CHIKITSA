@@ -48,10 +48,3 @@ CHIKITSA/
 │
 └── README.md            # Full project documentation (you're here!)
 
-## 📦 Installation
-
-To get started with CHIKITSA on your local machine:
-
-```bash
-git clone https://github.com/Arnazz10/CHIKITSA.git
-cd CHIKITSA
